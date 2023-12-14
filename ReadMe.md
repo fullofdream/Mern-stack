@@ -80,9 +80,9 @@
 > #### Features
 - GET,POST Entries in the travel bucket list via backend(api).
 - Create New Travel Entry via double click on map via Front-end UI Form on the custom map from mapbox.
-- [x] dropdown with stars for rating.
 - [x] red alert div message set up if error occurs while new log entry in the DB.
 - [x] automatic description fill(make it readonly prop) with location corresponding to latitude and longitude Coordinates.https://www.bigdatacloud.com/geocoding-apis/free-reverse-geocode-to-city-ap
+
 
 
 ***
